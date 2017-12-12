@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D03164041FE06D980017AF07 /* Countries.plist in Resources */ = {isa = PBXBuildFile; fileRef = D03164031FE06D980017AF07 /* Countries.plist */; };
 		D06F67D11FE0622E00BDBB46 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D06F67D01FE0622E00BDBB46 /* AppDelegate.swift */; };
 		D06F67D31FE0622E00BDBB46 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D06F67D21FE0622E00BDBB46 /* ViewController.swift */; };
 		D06F67D61FE0622E00BDBB46 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D06F67D41FE0622E00BDBB46 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D03164031FE06D980017AF07 /* Countries.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Countries.plist; sourceTree = "<group>"; };
 		D06F67CD1FE0622E00BDBB46 /* SectionalExpandableCollapsable.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SectionalExpandableCollapsable.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D06F67D01FE0622E00BDBB46 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D06F67D21FE0622E00BDBB46 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				D06F67E21FE064F600BDBB46 /* ViewCell.swift */,
 				D06F67D41FE0622E00BDBB46 /* Main.storyboard */,
 				D06F67D71FE0622E00BDBB46 /* Assets.xcassets */,
+				D03164031FE06D980017AF07 /* Countries.plist */,
 				D06F67D91FE0622E00BDBB46 /* LaunchScreen.storyboard */,
 				D06F67DC1FE0622E00BDBB46 /* Info.plist */,
 			);
@@ -129,6 +132,7 @@
 				D06F67DB1FE0622E00BDBB46 /* LaunchScreen.storyboard in Resources */,
 				D06F67D81FE0622E00BDBB46 /* Assets.xcassets in Resources */,
 				D06F67D61FE0622E00BDBB46 /* Main.storyboard in Resources */,
+				D03164041FE06D980017AF07 /* Countries.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
